@@ -1,0 +1,15 @@
+[submodule "thrift-discovery-service"]
+	path = thrift-discovery-service
+	url = git@github.com:VitaliyOliynyk/thrift-discovery-service.git
+[submodule "thrift-discovery-service-csharp"]
+	path = thrift-discovery-service-csharp
+	url = git@github.com:VitaliyOliynyk/thrift-discovery-service-csharp.git
+[submodule "thrift-calculator-thrift"]
+	path = thrift-calculator-thrift
+	url = git@github.com:VitaliyOliynyk/thrift-calculator-thrift.git
+[submodule "thrift-calculator-java"]
+	path = thrift-calculator-java
+	url = git@github.com:VitaliyOliynyk/thrift-calculator-java.git
+[submodule "thrift-calculator-client-php"]
+	path = thrift-calculator-client-php
+	url = git@github.com:VitaliyOliynyk/thrift-calculator-client-php.git
